@@ -1,1 +1,3 @@
-Print ( "Hello World" )
+#!/bin/bash
+print("Hello, World!")
+
